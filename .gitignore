@@ -1,0 +1,11 @@
+*.class
+!test/sampleBin/echoserver/*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/bin
+
+# Emacs tilde files
+*~
